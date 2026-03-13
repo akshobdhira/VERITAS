@@ -1,0 +1,11 @@
+{
+  "path": "E:\\design project\\veritas-mvp\\samples\\benign\\notepad.exe",
+  "filename": "notepad.exe",
+  "file_size": 201216,
+  "sha256": "baefafd4c558e8ec66a5772b8ac8dc18d51789ccaf97be5fc66cd63a71caf75c",
+  "entropy": 6.318146,
+  "num_strings": 2520,
+  "is_pe": false,
+  "num_imported_dlls": 0,
+  "num_imported_functions": 0
+}

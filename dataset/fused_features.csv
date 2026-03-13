@@ -1,0 +1,3 @@
+file_size,entropy,num_strings,is_pe,num_imported_dlls,num_imported_functions,proc_count,file_write_count,registry_write_count,network_attempts,label
+201216,6.318146,2520,False,0,0,1,0,11,0,0
+201216,6.318146,2520,False,0,0,1,0,0,0,0
